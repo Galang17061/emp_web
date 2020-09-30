@@ -30,7 +30,7 @@
 						<div class="logo">
 							<span class="db"><img src="<?= base_url(); ?>asset/assets/images/logo-icon.png"
 									alt="logo" /></span>
-							<h5 class="font-medium m-b-20">Sign In to Admin</h5>
+							<h5 class="font-medium m-b-20"> <p>Sign </p>In to Admin</h5>
 						</div>
 						<!-- Form -->
 						<div class="row">
